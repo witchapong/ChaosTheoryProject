@@ -7,5 +7,4 @@ TO DO:
 - process ไฟล์ pos neg แบบมี score ให้อยู่ในฟอร์แมต 2 columns: ['word','score']
 - rerun กับ ไฟล์ pos neg แบบมี score
 - เพิ่ม search function ให้ใส่ key words ย่อยได้ (hierachical keywords)
-- update search function notebook #4
 - เพิ่มค่าเชิงสถิติ และอื่นๆ สำหรับ notebook#7
