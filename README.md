@@ -1,11 +1,11 @@
-UPDATED DATE 18/06/19:
-- เพิ่ม notebook #7 สำหรับ network analysis
-- เพิ่ม code สำหรับ export word vector จาก notebook #4 ออกมาเป็นไฟล์ excel
+UPDATED DATE 26/06/19:
+- เพิ่ม notebook #4 สำหรับ ทำ segmentation per keyword
+- แก้ไข network analysis notebook #7 เป็น visualize per keyword และ เพิ่ม edge ระหว่าง word
+- แก้ไข notebook #1 ให้รองรับ keyword ที่ไม่ต้องการให้ตัด
 
 TO DO:
 - process ไฟล์ pos neg แบบมี score ให้อยู่ในฟอร์แมต 2 columns: ['word','score']
 - rerun กับ ไฟล์ pos neg แบบมี score
-- เพิ่ม dict สำหรับคำที่ไม่ต้องให้ตัด เช่น รุ่นรถต่างๆ
 - เพิ่ม search function ให้ใส่ key words ย่อยได้ (hierachical keywords)
 - update search function notebook #4
 - เพิ่มค่าเชิงสถิติ และอื่นๆ สำหรับ notebook#7
