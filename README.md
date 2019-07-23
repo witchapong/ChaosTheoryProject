@@ -3,6 +3,8 @@
 notebook สำหรับ train word vector รันใน colab ได้เลย... เปลี่ยนชื่อไฟล์แต่ละอันเอา
 <br>
 https://drive.google.com/open?id=1QH_iWVd5bcQZ0z_YSa7tProCmJNDva8H
+<br>
+Setting: run time > change runtime type > hardware accelerator = GPU
 
 TO DO:
 - process ไฟล์ pos neg แบบมี score ให้อยู่ในฟอร์แมต 2 columns: ['word','score']
