@@ -1,6 +1,7 @@
 *****UPDATED DATE 24/07/19:*****
 <br>
 notebook สำหรับ train word vector รันใน colab ได้เลย... เปลี่ยนชื่อไฟล์แต่ละอันเอา
+<br>
 https://drive.google.com/open?id=1QH_iWVd5bcQZ0z_YSa7tProCmJNDva8H
 
 TO DO:
